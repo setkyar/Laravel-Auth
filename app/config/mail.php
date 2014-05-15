@@ -54,7 +54,7 @@ return array(
 	|
 	*/
 
-	'from' => array('address' => 'setkyar16@gmail.com', 'name' => 'Laravel Auth'),
+	'from' => array('address' => 'yourgmail@gmail.com', 'name' => 'Laravel Auth'),
 
 	/*
 	|--------------------------------------------------------------------------
@@ -80,7 +80,7 @@ return array(
 	|
 	*/
 
-	'username' => 'setkyar16@gmail.com', // You must be change your gmail address
+	'username' => 'yourgmail@gmail.com', // You must be change your gmail address
 
 	/*
 	|--------------------------------------------------------------------------
@@ -93,7 +93,7 @@ return array(
 	|
 	*/
 
-	'password' => '********', // You must be change your password
+	'password' => 'yourgmailpassword', // You must be change your password
 
 	/*
 	|--------------------------------------------------------------------------

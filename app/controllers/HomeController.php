@@ -16,11 +16,6 @@ class HomeController extends BaseController {
 	*/
 
 	public function home() {
-
-		Mail::send('emails.auth.test', array('name' => 'Laravel Auth'), function($message){
-			$message->to('setkyar16@gmail.com', 'Laravel Auth')->subject('Test Email');
-		});
-
 		return View::make('home');
 	}
 
